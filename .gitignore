@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+
+# Docker files
+docker-compose.override.yml
+
+# VSCode settings
+.vscode/
+
+# Coverage reports
+coverage/
+
+# Optional npm cache directory
+.npm
+
+# Dependency directories
+.pnpm
+.yarn
+.bun
+
+# IDEs
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# TypeScript cache
+*.tsbuildinfo
